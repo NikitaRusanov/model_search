@@ -1,4 +1,6 @@
 # Nickita's Model Search custom version
+# Model Search custom edition by Nickita Rusanov
+
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
 
